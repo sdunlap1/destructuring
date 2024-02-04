@@ -12,7 +12,7 @@ const obj = {
 const { a, b } = obj.numbers;
 
 //ES2015 One-Line Array Swap with Destructuring
-// arr[0], (arr[1] = arr[1]), arr[0];
+arr[0], (arr[1] = arr[1]), arr[0];
 
 //raceResult()
 // raceResults(['Tom', 'Margaret', 'Allison', 'David', 'Pierre'])
